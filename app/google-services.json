@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1093144775448",
+    "firebase_url": "https://fir-weather-application.firebaseio.com",
+    "project_id": "fir-weather-application",
+    "storage_bucket": "fir-weather-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093144775448:android:0f91f1684fa8514029ac6d",
+        "android_client_info": {
+          "package_name": "com.example.firebaseweatherapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093144775448-t0uf5v5meg03enmibsre9sgqnc8p3c2f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseweatherapplication",
+            "certificate_hash": "4080b563fd622b7ef0a46e2b5a8cf336704b84b5"
+          }
+        },
+        {
+          "client_id": "1093144775448-mc0hrp104o38fm7k71e2fq3jg21rs8j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPCnI7tjV4r3aQd_z2yz0dFmzzkEFYnxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093144775448-mc0hrp104o38fm7k71e2fq3jg21rs8j8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
